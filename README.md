@@ -68,3 +68,9 @@ It works seamlessly with **any SQL database** (PostgreSQL, MySQL, SQLite, MS SQL
 
 ---
 
+<img width="944" height="933" alt="image" src="https://github.com/user-attachments/assets/2d4f793e-4f21-48f8-89b2-945eb5dd28c3" />
+
+<img width="921" height="909" alt="image" src="https://github.com/user-attachments/assets/5143c081-e0ea-4bc3-aae7-bfdaa95aaf43" />
+
+
+
