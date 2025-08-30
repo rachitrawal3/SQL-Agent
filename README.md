@@ -1,5 +1,3 @@
-Perfect 👍 I see the style you like — clean, **highlighted key terms**, icons, and professional formatting.
-Here’s your **SQL-Agent README in the same polished style**:
 
 ---
 
@@ -70,4 +68,3 @@ It works seamlessly with **any SQL database** (PostgreSQL, MySQL, SQLite, MS SQL
 
 ---
 
-Would you like me to also **create an ASCII-style pipeline diagram** (like a flowchart in markdown) so you can embed it directly in the README without needing an image?
