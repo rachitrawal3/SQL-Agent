@@ -67,7 +67,10 @@ It works seamlessly with **any SQL database** (PostgreSQL, MySQL, SQLite, MS SQL
 ⚡ With **SQL-Agent**, anyone can query a database in plain English and instantly get **SQL, visualizations, insights, and tables** — making data analysis simple, powerful, and automated.
 
 ---
-<img src="https://github.com/user-attachments/assets/2d4f793e-4f21-48f8-89b2-945eb5dd28c3" alt="Pipeline" width="600"/>
-<img src="https://github.com/user-attachments/assets/5143c081-e0ea-4bc3-aae7-bfdaa95aaf43" alt="Architecture" width="600"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d4f793e-4f21-48f8-89b2-945eb5dd28c3" alt="Pipeline" width="55%">
+  <img src="https://github.com/user-attachments/assets/5143c081-e0ea-4bc3-aae7-bfdaa95aaf43" alt="Architecture" width="55%">
+</p>
+
 
 
